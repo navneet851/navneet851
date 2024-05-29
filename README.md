@@ -19,7 +19,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ### Old Profile
-![@navneet852](https://github.com/navneet852)
+![Github](https://github.com/navneet852)
 
 
 ---
