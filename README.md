@@ -6,7 +6,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneetyadav700) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_navi_0048) 
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack compose" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=navneet851&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=navneet851&theme=dark&hide_border=true)<br/>
