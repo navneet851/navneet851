@@ -22,11 +22,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-### Old Profile
-![@navneet852(🧑‍🏫)](https://github.com/navneet852)
+### 🧑‍🏫 Old Profile
+<a src="https://github.com/navneet852" >@navneet852>/a>
 
 
 ---
