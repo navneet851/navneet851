@@ -24,7 +24,7 @@
 
 
 ### 🧑‍🏫 Old Profile
-<a src="https://github.com/navneet852" >@navneet852>/a>
+<a src="https://github.com/navneet852" >@navneet852</a>
 
 
 ---
