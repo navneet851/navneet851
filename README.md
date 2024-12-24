@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Navneet Yadav<br>- 👀 I’m interested in Native Android Development<br>- 🌱 I’m currently learning Mobile backend<br>- 💞️ I’m looking to collaborate on Mobile Development<br>- 📫 How to reach me nav700neet@gmail.com<br>- ⚡ Fun fact: Working all the time
+- 👋 Hi, I’m Navneet Yadav<br>- 👀 I’m interested in Native Android Development<br>- 🌱 I’m currently learning KMM<br>- 💞️ I’m looking to collaborate on Mobile Development<br>- 📫 How to reach me nav700neet@gmail.com<br>- ⚡ Fun fact: Working all the time
 
 
 ## 🌐 Socials:
